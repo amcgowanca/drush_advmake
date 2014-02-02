@@ -1,0 +1,6 @@
+branches:
+  only:
+    - 1.x
+language: php
+  php:
+    - 5.3
